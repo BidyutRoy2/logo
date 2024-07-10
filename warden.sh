@@ -12,7 +12,7 @@ bash_profile=$HOME/.bash_profile
 if [ -f "$bash_profile" ]; then
     . $HOME/.bash_profile
 fi
-sleep 1 && curl -s https://github.com/BidyutRoy2/logo/blob/main/logo.sh | bash && sleep 1
+sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/warden-protocol-node/main/logo.sh | bash && sleep 1
 
 NODE="wardend"
 export DAEMON_HOME=$HOME/.warden
