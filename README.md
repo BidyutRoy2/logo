@@ -1,4 +1,17 @@
-# Installation
+# Warden Protocol Node Installation [Guide](https://docs.wardenprotocol.org/operate-a-node/networks/join-buenavista)
+
+<p align="center">
+<img src='image.jpg' width='900'>
+</p>
+
+# Prerequisites Recommend
+
+```
+at least 8 cores
+32GB of RAM
+300GB of disk space
+```
+
 
 ### Use our installation script, specify a name for your node and wait for the installation to complete
 
