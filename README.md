@@ -3,7 +3,7 @@
 ### Use our installation script, specify a name for your node and wait for the installation to complete
 
 ``` 
-wget -q -O warden.sh https://raw.githubusercontent.com/BidyutRoy2/logo/main/warden.sh && sudo chmod +x warden.sh && ./warden.sh && source $HOME/.bash_profile
+wget -q -O warden.sh https://raw.githubusercontent.com/BidyutRoy2/warden-protocol-node/main/warden.sh && sudo chmod +x warden.sh && ./warden.sh && source $HOME/.bash_profile
 ```
 
 ### Create a wallet, don’t forget to save the mnemonic:
